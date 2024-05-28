@@ -1,4 +1,0 @@
-[submodule "bookstore"]
-	path = bookstore
-	url = https://github.com/Cazuta/Frontend.git
-    
